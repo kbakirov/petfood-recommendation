@@ -59,7 +59,7 @@ referencing==0.36.2
 requests==2.32.3
 rpds-py==0.25.1
 scikit-learn==1.6.1
-scipy==1.13.1
+scipy==1.15.3
 six==1.17.0
 smmap==5.0.2
 soupsieve==2.7
