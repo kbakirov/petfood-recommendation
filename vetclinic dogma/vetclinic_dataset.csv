@@ -1,0 +1,24 @@
+﻿Порода;Количество по базе;Уролитиаз/МКБ;Энтеропатия и гастропатия;Панкреатит;Гепатопатии;ХБП;Сахарный диабет;Ожирение;Переведенное название;Size;group;Название из данных;Группа из данных
+Йоркширские терьеры;571;18;111;63;4;13;4;12;Yorkshire Terriers;small;toy;Yorkshire Terrier;1.0
+Немецкая овчарка;715;3;186;4;1;5;3;3;German Shepherd Dog;large;pastoral;German Shepherd Dog;0.4
+Тойтерьер;362;7;55;25;1;4;2;12;Toy Terrier;small;toy;-;-
+Чихуахуа;227;3;36;23;0;0;0;10;Chihuahua;small;toy;Chihuahua;Toy Group
+Шпиц немецкий;107;3;14;5;0;0;0;2;German Spitz;small;utility;German Spitz;Foundation Stock Service
+Шпиц померанский;103;2;23;6;0;0;0;2;Pomeranian Spitz;small;toy;Pomeranian;Toy Group
+Алабай;194;1;45;2;1;1;0;0;Alabai;large;foundation stock service;Central Asian Shepherd Dog;Foundation Stock Service
+Хаски;208;3;38;3;0;4;1;1;Husky;medium-large;working;Siberian Husky;Working Group
+Мопс;201;14;20;5;0;0;0;14;Pug;small;toy;Pug;Toy Group
+Французский бульдог;197;0;24;5;0;0;0;1;French Bulldog;small;utility;French Bulldog;Non-Sporting Group
+Пекинес;159;2;19;6;0;1;0;0;Pekingese;small;toy;Pekingese;Toy Group
+Такса;149;3;16;12;0;0;2;7;Dachshund;small;hound;Dachshund;Hound Group
+Спаниель;121;0;24;3;0;0;0;4;Spaniel;medium;-;American Water Spaniel, Boykin Spaniel, Cavalier King Charles Spaniel, Clumber Spaniel, Cocker Spaniel, English Cocker Spaniel, English Springer Spaniel, English Toy Spaniel, Field Spaniel, French Spaniel, Irish Water Spaniel, Sussex Spaniel, Tibetan Spaniel, Welsh Springer Spaniel;-
+Питбультерьер;110;1;13;0;0;0;0;0;Pit Bull Terrier;medium;terrier;Bull Terrier;Terrier Group
+Джек-рассел-терьер;88;0;5;4;0;0;0;0;Jack Russell Terrier;small;terrier;Russell Terrier;Terrier Group
+Пудель;73;2;10;5;1;0;2;0;Poodle;small, medium, large;-;Poodle (Miniature), Poodle (Standard), Poodle (Toy);Non-Sporting Group
+Русский спаниель;82;0;10;1;0;0;0;0;Russian Spaniel;medium;-;-;-
+Карликовый пинчер;61;1;9;3;0;0;2;2;Miniature Pinscher;small;toy;Miniature Pinscher;Toy Group
+Мальтипу;65;0;4;2;0;0;0;0;Maltipoo;small;toy;-;-
+Шарпей;63;1;8;1;0;0;0;0;Shar Pei;medium;utility;Chinese Shar-Pei;Non-Sporting Group
+Стаффордшир-терьер;55;0;5;3;0;0;0;1;Staffordshire Terrier;medium;terrier;American Staffordshire Terrier;Terrier Group
+Ротвейлер;50;0;9;1;0;0;0;1;Rottweiler;large;working;Rottweiler;Working Group
+Лабрадор;275;2;32;3;0;1;3;5;Labrador;large;Sporting;Labrador Retriever;Sporting Group
